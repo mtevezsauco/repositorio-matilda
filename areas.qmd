@@ -1,0 +1,49 @@
+---
+title: "Áreas Temáticas"
+page-layout: full
+---
+
+<div class="site-subheading">
+  Explorá las buenas prácticas según tu área de interés
+</div>
+
+:::{.areas-grid}
+
+<a href="category-vocaciones.qmd" class="area-card">
+  <i class="bi bi-people area-icon"></i>
+  <h3>Vocaciones</h3>
+  <p>Buenas prácticas para despertar vocaciones tempranas y derribar estereotipos.</p>
+</a>
+
+<a href="category-ingreso.qmd" class="area-card">
+  <i class="bi bi-cpu area-icon"></i>
+  <h3>Ingreso-Permanencia</h3>
+  <p>Buenas prácticas para favorecer el ingreso, y permanencia.</p>
+</a>
+
+<a href="category-eventos.qmd" class="area-card">
+  <i class="bi bi-bell area-icon"></i>
+  <h3>Eventos</h3>
+  <p>Buenas prácticas para organizar eventos, conferencias, etc., con perspectiva de género.</p>
+</a>
+
+<a href="category-violencia.qmd" class="area-card">
+  <i class="bi bi-gender-ambiguous area-icon"></i>
+  <h3>Violencia</h3>
+  <p>Buenas prácticas para prevenir la violencia y discriminación por motivos de género.</p>
+</a>
+
+<a href="category-comunicacion.qmd" class="area-card">
+  <i class="bi bi-stars area-icon"></i>
+  <h3>Comunicación</h3>
+  <p>Buenas prácticas en los procesos de comunicación.</p>
+</a>
+
+<a href="category-herramienta.qmd" class="area-card">
+  <i class="bi bi-lightbulb area-icon"></i>
+  <h3>Herramientas</h3>
+  <p>Buenas prácticas para elaborar indicadores, recopilar información, calcular estadísticas del impacto de programas.</p>
+</a>
+
+:::
+---

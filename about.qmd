@@ -1,0 +1,60 @@
+---
+title: "Sobre el blog"
+image: logo.png
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Web-CAL
+      href: https://www.catedramatilda.org
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cal-matilda-a45b94253/?originalSubdomain=ar
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+# **¡Bienvenidos!**
+
+La Cátedra Abierta Latinoamericana Matilda y las Mujeres en Ingeniería (CAL-Matilda) invita a universidades, facultades y programas académicos de la región a compartir sus prácticas exitosas en materia de igualdad de género y participación de mujeres y diversidades en las áreas STEM, con el propósito de integrarlas al Banco de Buenas Prácticas de su Repositorio Institucional.
+
+## **Objetivos del repositorio:**
+
+- Recopilar y sistematizar experiencias exitosas que promuevan la igualdad de género, la inclusión y la participación de mujeres y diversidades en ingeniería y STEM.
+
+- Visibilizar y reconocer iniciativas innovadoras que contribuyan al fortalecimiento institucional y al desarrollo de comunidades académicas más equitativas.
+
+- Favorecer la transferencia y la cooperación regional, impulsando la replicabilidad y el aprendizaje colectivo entre universidades de América Latina.
+
+- Generar evidencia y herramientas de medición que permitan evaluar avances, resultados e impactos en materia de igualdad de género en la educación en ingeniería.
+
+## **¿Qué se entiende por “Buenas prácticas”?**
+
+Según CONFEDI (2025), “las buenas prácticas son aquellas acciones o iniciativas que se llevan a cabo con éxito y que pueden ser replicadas en otros contextos”. Las características deseables de una buena práctica son:
+
+- Innovación: que sea novedosa y aporte un valor añadido.
+
+- Eficacia: que logre los objetivos propuestos y se puedan medir sus avances y logros.
+
+- Sostenibilidad: que pueda mantenerse en el tiempo.
+
+- Transferibilidad: que pueda ser replicada en otras instituciones y/o en otros contextos.
+
+# **Areas temáticas:**
+
+Las siguientes son algunas áreas temáticas en las cuales pueden desarrollarse buenas prácticas:
+
+- Buenas prácticas para despertar vocaciones tempranas y derribar estereotipos ***(Categoria: Vocaciones)***
+
+- Buenas prácticas para favorecer el ingreso, y permanencia ***(Categoria: Ingreso-Permanencia)***
+
+- Buenas prácticas para organizar eventos, conferencias, etc., con perspectiva de género ***(Categoria: Eventos)***
+
+- Buenas prácticas en los procesos de comunicación ***(Categoria: Comunicación)***
+
+- Buenas prácticas para prevenir la violencia y discriminación por motivos de género ***(Categoria: Violencia)***
+
+- Buenas prácticas para elaborar indicadores, recopilar información, calcular estadísticas del impacto de programas para el incremento de vocaciones y la retención en el primer año ***(Categoria: Herramientas)***
+
+¡Explora el repositorio y contanos tu experiencia!

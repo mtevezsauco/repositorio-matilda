@@ -1,0 +1,12 @@
+---
+listing:
+  contents: posts
+  sort: "date desc"
+  template: nautilus-listing.ejs
+page-layout: full
+---
+
+<div class="site-subheading">
+  Espacio de buenas prácticas de la CAL-Matilda
+</div>
+---

@@ -1,0 +1,12 @@
+---
+title: "Violencia"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Violencia"]
+page-layout: full
+---
+
+Aquí encontrarás todos los artículos y buenas prácticas etiquetadas bajo la categoría **Violencia**: Buenas prácticas para prevenir la violencia y discriminación por motivos de género.

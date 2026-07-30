@@ -1,0 +1,20 @@
+---
+title: "Autorxs y Filiaciones"
+description: "Directorio de autoras, autores e instituciones participantes del repositorio."
+page-layout: full
+listing:
+  contents: posts
+  type: table
+  sort: "author asc"
+  fields: [author, filiacion, title, date]
+  field-display-names:
+    author: "Autor/a"
+    filiacion: "Filiación e Institución"
+    title: "Publicación"
+    date: "Fecha"
+  filter-ui: true
+  sort-ui: true
+---
+
+Utilizá el cuadro de búsqueda para filtrar por **nombre de autor/a**, **universidad** o **país**:
+---

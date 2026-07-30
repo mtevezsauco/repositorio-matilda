@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "REPOSITORIO MATILDA"
+  search: true
+  
+  navbar:
+    logo: logo.png
+    background: light
+    collapse: false
+    left:
+      - text: "INICIO"
+        href: index.qmd
+      - text: "SOBRE EL BLOG"
+        href: about.qmd
+      - text: "ENVIAR"
+        href: enviar.qmd
+      - text: "AREAS"
+        href: areas.qmd
+      - text: "AUTOREXS"
+        href: category-autorxs.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: nautilus.css
+    title-block-banner: false
+    doi-prefix: "[https://doi.org/](https://doi.org/)"

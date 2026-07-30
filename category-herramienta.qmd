@@ -1,0 +1,12 @@
+---
+title: "Herramientas"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Herramientas"]
+page-layout: full
+---
+
+Aquí encontrarás todos los artículos y buenas prácticas etiquetadas bajo la categoría **Herramientas**: Buenas prácticas para elaborar indicadores, recopilar información, calcular estadísticas del impacto de programas para el incremento de vocaciones y la retención en el primer año

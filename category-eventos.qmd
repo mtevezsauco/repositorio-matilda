@@ -1,0 +1,12 @@
+---
+title: "Eventos"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Eventos"]
+page-layout: full
+---
+
+Aquí encontrarás todos los artículos y buenas prácticas etiquetadas bajo la categoría **Eventos**: Buenas prácticas para organizar eventos, conferencias, etc., con perspectiva de género.

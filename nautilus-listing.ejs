@@ -1,0 +1,61 @@
+```{=html}
+<% 
+  const latestPost = items[0];
+  const otherPosts = items.slice(1);
+  
+  const leftPosts = [];
+  const rightPosts = [];
+  otherPosts.forEach((item, index) => {
+    if (index % 2 === 0) {
+      leftPosts.push(item);
+    } else {
+      rightPosts.push(item);
+    }
+  });
+%>
+
+<div class="nautilus-grid">
+  
+  <!-- Columna Izquierda -->
+  <div class="col-side col-left">
+    <% leftPosts.forEach(function(item) { %>
+      <div class="card-post">
+        <% if (item.image) { %>
+          <a href="<%= item.path %>"><img src="<%= item.image %>" class="post-img"></a>
+        <% } %>
+        <h3 class="post-title"><a href="<%= item.path %>"><%= item.title %></a></h3>
+        <p class="post-author"><%= item.author %></p>
+      </div>
+    <% }); %>
+  </div>
+
+  <!-- Columna Central (Destacada) -->
+  <% if (latestPost) { %>
+    <div class="col-hero">
+      <div class="card-hero">
+        <% if (latestPost.image) { %>
+          <a href="<%= latestPost.path %>"><img src="<%= latestPost.image %>" class="hero-img"></a>
+        <% } %>
+        <h1 class="hero-title"><a href="<%= latestPost.path %>"><%= latestPost.title %></a></h1>
+        <% if (latestPost.description) { %>
+          <p class="hero-desc"><%= latestPost.description %></p>
+        <% } %>
+        <p class="hero-author"><%= latestPost.author %></p>
+      </div>
+    </div>
+  <% } %>
+
+  <!-- Columna Derecha -->
+  <div class="col-side col-right">
+    <% rightPosts.forEach(function(item) { %>
+      <div class="card-post">
+        <% if (item.image) { %>
+          <a href="<%= item.path %>"><img src="<%= item.image %>" class="post-img"></a>
+        <% } %>
+        <h3 class="post-title"><a href="<%= item.path %>"><%= item.title %></a></h3>
+        <p class="post-author"><%= item.author %></p>
+      </div>
+    <% }); %>
+  </div>
+
+</div>

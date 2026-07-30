@@ -1,0 +1,12 @@
+---
+title: "Ingreso-Permanencia"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Ingreso-Permanencia"]
+page-layout: full
+---
+
+Aquí encontrarás todos los artículos y buenas prácticas etiquetadas bajo la categoría **Ingreso y Permanencia**: Buenas prácticas para favorecer el ingreso, y permanencia.

@@ -1,0 +1,17 @@
+---
+title: "Enviar"
+description: "Convocatoria de Buenas Practicas"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Blog"]
+page-layout: full
+---
+
+Te invitamos a participar en la **Convocatoria del Banco de Buenas Prácticas CAL-Matilda 2025–2026**, enfocada en el eje de **vocaciones**. Universidades, facultades y programas académicos de la región pueden postular sus iniciativas para fomentar e incrementar las vocaciones de **niñas, mujeres y diversidades** en STEM.
+
+Podés visitar las [instrucciones de la convocatoria](https://ddfab8798b.clvaw-cdnwnd.com/220ae1f5d63fc4f40b91013e35216702/200000136-6ff1a6ff1c/Bases%20y%20lineamientos%20-%20Convocatoria%20Banco%20de%20Buenas%20Prácticas.pdf?ph=ddfab8798b) para conocer más.
+
+Podes subir tu participacion a este [formulario](https://forms.gle/ufhE3eL9Xh25WiWJ7) para que lo revise el comite editorial.

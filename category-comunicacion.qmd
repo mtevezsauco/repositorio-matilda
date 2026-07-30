@@ -1,0 +1,12 @@
+---
+title: "Comunicaciones"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Comunicacion"]
+page-layout: full
+---
+
+Aquí encontrarás todos los artículos y buenas prácticas etiquetadas bajo la categoría **Comunicación**: Buenas prácticas en los procesos de comunicación.

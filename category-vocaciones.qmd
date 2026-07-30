@@ -1,0 +1,12 @@
+---
+title: "Vocaciones"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  include:
+    categories: ["Vocaciones"]
+page-layout: full
+---
+
+Aquí encontrarás todos los artículos y buenas prácticas etiquetadas bajo la categoría **Vocaciones**: Buenas prácticas para despertar vocaciones tempranas y derribar estereotipos.

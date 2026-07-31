@@ -13,8 +13,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/Posteo3_Prueba/index.html",
-      "/posts/Posteo_2_Torres/index.html",
-      "/posts/Posteo_1_Monroy/index.html"
+      "/posts/Posteo_1_Monroy/index.html",
+      "/posts/Posteo_2_Torres/index.html"
     ]
   },
   {
@@ -28,6 +28,7 @@
   {
     "listing": "/category-vocaciones.html",
     "items": [
+      "/posts/Posteo_1_Monroy/index.html",
       "/posts/Posteo_2_Torres/index.html"
     ]
   },

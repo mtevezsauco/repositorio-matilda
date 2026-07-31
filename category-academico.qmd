@@ -1,0 +1,6 @@
+---
+title: "Academico"
+description: "Buenas practicas en el area academica"
+---
+
+Busca aca todas las buenas practicas relacionadas a mundo academico.
